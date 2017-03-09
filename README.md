@@ -3,6 +3,7 @@
 
 #Simple
 import React, {Component, PropTypes} from 'react';
+
 import {
     StyleSheet,
     View,
@@ -11,10 +12,13 @@ import {
 } from 'react-native';
 
 import VerticalViewPager from 'react-native-vertical-viewpager'
+
 import QATest from '../../test/QATest'
+
 import Settings from '../../set/Setting'
 
 const {height, width} = Dimensions.get('window');
+
 export default class RCTComponents extends Component {
 
     render() {
