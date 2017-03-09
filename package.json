@@ -1,0 +1,29 @@
+{
+  "_npmUser": {
+    "email": "liushaobo2005@163.com",
+    "name": "liushaobo"
+  },
+  "author": {
+    "name": "liushaobo"
+  },
+  "bugs": {
+    "url": "https://github.com/kinshasa/react-native-vertical-viewpager/issues"
+  },
+  "dependencies": {
+	"react-native-vector-icons": "^4.0.0"
+  },
+  "description": "react-native-vertical-viewpager",
+  "devDependencies": {},
+  "directories": {},
+
+  "name": "react-native-smart-parabola",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinshasa/react-native-vertical-viewpager.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
